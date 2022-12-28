@@ -2,9 +2,12 @@ Hi
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My
 name is Aldo D'Orso
 ===================================================================================================================================
-Web Developer ------------- * 🌍  I'm based in Front-end * ✉️  You can contact
-me at [aldo-2@hotmail.it](mailto:aldo-2@hotmail.it) * 🧠  I'm learning React *
-⚡  I can solve the Rubik's cube ### Skills
+Web Developer 
+------------- 
+* 🌍  I'm based in Front-end 
+* ✉️  You can contact me at [aldo-2@hotmail.it](mailto:aldo-2@hotmail.it) 
+* 🧠  I'm learning React 
+* ⚡  I can solve the Rubik's cube ### Skills
 
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"

@@ -115,7 +115,7 @@ me at [aldo-2@hotmail.it](mailto:aldo-2@hotmail.it) * 🧠  I'm learning React 
 
 ### Socials
 
-<p align="center" style="justify-content: space-between; align-items: center;">
+<p style="justify-content: space-between; align-items: center;">
   <a href="https://codesandbox.io/u/Aldodo91" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg"

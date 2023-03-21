@@ -118,7 +118,9 @@ Web Developer
 
 ### Socials
 
-<p align="center">
+<p style=" display: flex;
+    justify-content: center;
+    align-items: center;" align="center">
   <a href="https://codesandbox.io/u/Aldodo91" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg"

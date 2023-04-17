@@ -7,7 +7,8 @@ Web Developer
 * 🌍  I'm based in Front-end 
 * 🧑‍💻  I'm learning React and Angular 
 * 💻  I'm Linux fan
-* ⚡  I can solve the Rubik's cube ### Skills
+* ⚡  I can solve the Rubik's cube  
+### Skills
 
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"

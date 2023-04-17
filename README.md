@@ -5,8 +5,8 @@ name is Aldo D'Orso
 Web Developer 
 ------------- 
 * 🌍  I'm based in Front-end 
-* ✉️  You can contact me at [aldo-2@hotmail.it](mailto:aldo-2@hotmail.it) 
-* 🧠  I'm learning React 
+* 🧑‍💻  I'm learning React and Angular 
+* 💻  I'm Linux fan
 * ⚡  I can solve the Rubik's cube ### Skills
 
 <p align="center">

@@ -4,9 +4,9 @@ name is Aldo D'Orso
 ===================================================================================================================================
 Web Developer 
 ------------- 
-* 🌍  I'm based in Front-end 
-* 🧑‍💻  I'm learning React and Angular 
-* 💻  I'm Linux fan
+* 🌍  I'm skilled in Front-end 
+* 💻  I'm learning React and Angular 
+* 🐧  I'm Linux fan
 * ⚡  I can solve the Rubik's cube  
 ### Skills
 
